@@ -4,6 +4,6 @@ services:
     env: docker
     plan: free
     branch: main
-    repo: https://github.com/OfficialKango/kango-pair-site
+    repo: https://github.com/Smilemodds/kango-pair-site.git
     dockerfilePath: ./Dockerfile
     autoDeploy: true
